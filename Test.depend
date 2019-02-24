@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1548694978 source:c:\users\lilicura\documents\programy\test\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
